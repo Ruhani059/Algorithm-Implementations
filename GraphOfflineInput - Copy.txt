@@ -1,0 +1,17 @@
+8
+a
+b
+c
+d
+e
+f
+g
+h
+a.b.e
+b.a
+c.b.d
+d.c
+e.a.b
+f.b.e.g
+g.c.f
+h.d.g.h
